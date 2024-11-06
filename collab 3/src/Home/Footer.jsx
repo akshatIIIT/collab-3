@@ -50,7 +50,7 @@ const Footer = () => {
 
 
 <div className=" h-20 w-full text-center text-gray-800 -mt-20 flex items-center justify-center ">
-<p className="text-sm font-semibold">made with ♡ <span className='text-[#1FBEFF]'>abhigyann</span>  and Team</p>
+<p className="text-sm font-semibold">made with ♡ <span className='text-[#1FBEFF]'>AKSHAT</span>  and Team</p>
 </div>
 
 </>
